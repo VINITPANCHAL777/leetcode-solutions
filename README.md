@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0031-next-permutation) |
