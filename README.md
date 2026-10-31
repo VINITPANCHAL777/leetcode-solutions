@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -65,4 +66,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
