@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [2409-count-days-spent-together](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
