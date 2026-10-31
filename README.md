@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0876-middle-of-the-linked-list](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
