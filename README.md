@@ -17,11 +17,13 @@
 | [0005-longest-palindromic-substring](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [2409-count-days-spent-together](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -95,4 +97,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
