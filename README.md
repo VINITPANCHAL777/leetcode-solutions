@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -60,4 +61,8 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
