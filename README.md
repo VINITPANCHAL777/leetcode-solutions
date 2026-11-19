@@ -87,6 +87,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -120,4 +121,12 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
