@@ -51,6 +51,7 @@
 | [0001-two-sum](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0041-first-missing-positive) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0031-next-permutation](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String Matching
