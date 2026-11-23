@@ -43,6 +43,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
@@ -89,6 +90,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String Matching
 |  |
@@ -131,4 +133,16 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
