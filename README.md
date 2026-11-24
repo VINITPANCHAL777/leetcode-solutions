@@ -45,6 +45,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
