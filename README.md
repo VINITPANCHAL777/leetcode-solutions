@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
@@ -164,4 +166,20 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3360-stone-removal-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
