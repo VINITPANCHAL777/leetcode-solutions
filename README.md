@@ -27,6 +27,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Manacher
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## String Matching
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -174,6 +178,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -182,4 +187,9 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
