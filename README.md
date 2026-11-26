@@ -27,6 +27,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [1301-number-of-paths-with-max-score](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Manacher
@@ -99,6 +100,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1301-number-of-paths-with-max-score](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -184,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
