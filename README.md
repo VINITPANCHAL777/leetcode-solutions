@@ -100,6 +100,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1288-remove-covered-intervals](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1352-product-of-the-last-k-numbers](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -147,6 +148,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Design
 |  |
