@@ -20,6 +20,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0038-count-and-say) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2409-count-days-spent-together](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -55,11 +56,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
