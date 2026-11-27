@@ -30,6 +30,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Manacher
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3620-network-recovery-pathways](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VINITPANCHAL777/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
